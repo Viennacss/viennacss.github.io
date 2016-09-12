@@ -1,6 +1,6 @@
-name: Solar Theme
-url: http://example.org
-description: A stylish blog using the Solarized color palette
+name: vienna.css
+url: viennacss.github.io
+description: Vienna's CSS meetup and user group
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
